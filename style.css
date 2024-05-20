@@ -7,3 +7,7 @@ html {
   width: 70%;
   height: auto;
 }
+
+.pointer {
+  cursor: pointer;
+}
