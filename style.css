@@ -4,10 +4,20 @@ html {
 }
 
 .img-thumbnail {
-  width: 70%;
-  height: auto;
+  width: 50%;
+  height: auto; 
+  object-fit: cover;
 }
 
 .pointer {
   cursor: pointer;
 }
+
+body{background-color: grey;}
+
+h3{ color: green;}
+
+.blue { color: blue;}
+
+#red { color: red;}
+  
